@@ -5,6 +5,7 @@
 ## The Importance of Modeling Social Factors of Language:Theory and Practice, Hovy et al https://aclanthology.org/2021.naacl-main.49.pdf
 ## Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models, Zhao et al https://aclanthology.org/2024.naacl-long.178.pdf
 ## The State and Fate of Linguistic Diversity and Inclusion in the NLP World, Joshi et al https://aclanthology.org/2020.acl-main.560.pdf
+## The Zeno’s Paradox of ‘Low-Resource’ Languages, Nigatu et al https://aclanthology.org/2024.emnlp-main.983.pdf
 ## Knowledge of cultural moral norms in large language models, Ramezani et al https://aclanthology.org/2023.acl-long.26.pdf
 ## Language Model Tokenizers Introduce Unfairness Between Languages, Petrov et al https://arxiv.org/pdf/2305.15425
 # Guide to underlying formats and technologies

@@ -12,6 +12,7 @@
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et all https://dl.acm.org/doi/pdf/10.1145/3656382
+## Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese, de Souza et al https://sol.sbc.org.br/index.php/stil/article/view/31134/30937
 # Related papers
 ## Rule-based semantic interpretation for Universal Dependencies, Findlay et al https://aclanthology.org/2023.udw-1.6.pdf
 ## AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite, Groschwitz et al https://arxiv.org/pdf/2312.03480

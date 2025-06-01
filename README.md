@@ -8,6 +8,7 @@
 ## The Zeno’s Paradox of ‘Low-Resource’ Languages, Nigatu et al https://aclanthology.org/2024.emnlp-main.983.pdf
 ## Knowledge of cultural moral norms in large language models, Ramezani et al https://aclanthology.org/2023.acl-long.26.pdf
 ## Language Model Tokenizers Introduce Unfairness Between Languages, Petrov et al https://arxiv.org/pdf/2305.15425
+## Low-resource Languages: A Review of Past Work and Future Challenges, Magueresse et al, https://arxiv.org/pdf/2006.07264
 # Guide to underlying formats and technologies
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517

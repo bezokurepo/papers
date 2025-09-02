@@ -20,7 +20,6 @@
 ## Neural Semantic Parsing with Extremely Rich Symbolic Meaning Representations, Zhang et al https://research.rug.nl/en/publications/neural-semantic-parsing-with-extremely-rich-symbolic-meaning-repr
 ## T-FREE: Tokenizer-Free Generative LLMs via Sparse Representations for Memory-Efficient Embeddings, Deiseroth et al https://arxiv.org/html/2406.19223v1
 ## The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, Ma et al https://arxiv.org/pdf/2402.17764
-## DATA ANNEALING TRANSFER LEARNING PROCEDURE FOR INFORMAL LANGUAGE UNDERSTANDING TASKS, Anonymous authors ICLR https://openreview.net/attachment?id=HJlys1BtwB&name=original_pdf
 ## Representing Low-Resource Languages and Dialects: Improved Neural Methods for Spoken Language Processing, Martijn Bartelds https://research.rug.nl/en/publications/representing-low-resource-languages-and-dialects-improved-neural-
 ## Adapting Monolingual Models: Data can be Scarce when Language Similarity is High, de Vries et al https://research.rug.nl/en/publications/adapting-monolingual-models-data-can-be-scarce-when-language-simi
 ## Missing links in AI Governance, UNESCO and MILA, https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000384787&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_c75d935a-735f-435d-b54b-2a288c57da69%3F_%3D384787eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000384787/PDF/384787eng.pdf#A14974_Mila_MissingLinksAI_8x10_AN_EP10.indd:.142489:1122

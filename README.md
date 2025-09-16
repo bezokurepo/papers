@@ -23,6 +23,8 @@
 ## Reference and Modification in Universal Dependencies, Nivre & Croft https://aclanthology.org/2025.udw-1.1.pdf
 ## Word Order Variation in Spoken and Written Corpora: A Cross-Linguistic Study of SVO and Alternative Orders, Hull & Dobrovoljc https://aclanthology.org/2025.depling-1.16.pdf
 ## Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis, Higdon et al https://aclanthology.org/2025.quasy-1.11.pdf
+# Use case analysis
+## HOW PEOPLE USE CHATGPT, Chatterji et al https://www.nber.org/system/files/working_papers/w34255/w34255.pdf
 # Related papers
 ## Rule-based semantic interpretation for Universal Dependencies, Findlay et al https://aclanthology.org/2023.udw-1.6.pdf
 ## AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite, Groschwitz et al https://arxiv.org/pdf/2312.03480

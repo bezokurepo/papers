@@ -1,5 +1,5 @@
 # The bezoku papers repo is regularly updated, sharing research for low resource and indigenous language technology
-# Primary research for low resource and indigenous languages
+# 1) Primary research for low resource and indigenous languages
 ## Challenges and Strategies in Cross-Cultural NLP, Hershcovich et al https://aclanthology.org/2022.acl-long.482.pdf
 ## On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, Bender et al https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
 ## The Importance of Modeling Social Factors of Language:Theory and Practice, Hovy et al https://aclanthology.org/2021.naacl-main.49.pdf
@@ -10,12 +10,12 @@
 ## Language Model Tokenizers Introduce Unfairness Between Languages, Petrov et al https://arxiv.org/pdf/2305.15425
 ## Low-resource Languages: A Review of Past Work and Future Challenges, Magueresse et al, https://arxiv.org/pdf/2006.07264
 ## Representing Low-Resource Languages and Dialects: Improved Neural Methods for Spoken Language Processing, Martijn Bartelds https://research.rug.nl/en/publications/representing-low-resource-languages-and-dialects-improved-neural-
-# Formats and technologies
+# 2) Formats and technologies
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et all https://dl.acm.org/doi/pdf/10.1145/3656382
 ## Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese, de Souza et al https://sol.sbc.org.br/index.php/stil/article/view/31134/30937
-# Selected papers in linguistics and syntax in 2025
+# 3) Selected papers in linguistics and syntax in 2025
 ## UD 2.16, Zeman et al https://lindat.mff.cuni.cz/repository/items/55b06337-e49c-4631-9328-b1a38322b1d4
 ## Assessing the Agreement Competence of Large Language Models, Táboas García et al https://aclanthology.org/2025.depling-1.4.pdf
 ## High-Accuracy Transition-Based Constituency Parsing, Bauer & Manning https://aclanthology.org/2025.iwpt-1.4.pdf
@@ -24,9 +24,9 @@
 ## Reference and Modification in Universal Dependencies, Nivre & Croft https://aclanthology.org/2025.udw-1.1.pdf
 ## Word Order Variation in Spoken and Written Corpora: A Cross-Linguistic Study of SVO and Alternative Orders, Hull & Dobrovoljc https://aclanthology.org/2025.depling-1.16.pdf
 ## Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis, Higdon et al https://aclanthology.org/2025.quasy-1.11.pdf
-# Use case analysis
+# 4) Use case analysis
 ## HOW PEOPLE USE CHATGPT, Chatterji et al https://www.nber.org/system/files/working_papers/w34255/w34255.pdf
-# Related papers
+# 5) Related papers
 ## Rule-based semantic interpretation for Universal Dependencies, Findlay et al https://aclanthology.org/2023.udw-1.6.pdf
 ## AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite, Groschwitz et al https://arxiv.org/pdf/2312.03480
 ## Neural Semantic Parsing with Extremely Rich Symbolic Meaning Representations, Zhang et al https://research.rug.nl/en/publications/neural-semantic-parsing-with-extremely-rich-symbolic-meaning-repr

@@ -1,5 +1,5 @@
-# papers
-# Background research for Bezoku
+# Bezoku papers is regularly updated, focused on research relevant to low resource and indigenous languages
+# Primary research for Bezoku
 ## Challenges and Strategies in Cross-Cultural NLP, Hershcovich et al https://aclanthology.org/2022.acl-long.482.pdf
 ## On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, Bender et al https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
 ## The Importance of Modeling Social Factors of Language:Theory and Practice, Hovy et al https://aclanthology.org/2021.naacl-main.49.pdf

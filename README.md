@@ -35,3 +35,4 @@
 ## Adapting Monolingual Models: Data can be Scarce when Language Similarity is High, de Vries et al https://research.rug.nl/en/publications/adapting-monolingual-models-data-can-be-scarce-when-language-simi
 ## Missing links in AI Governance, UNESCO and MILA, https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000384787&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_c75d935a-735f-435d-b54b-2a288c57da69%3F_%3D384787eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000384787/PDF/384787eng.pdf#A14974_Mila_MissingLinksAI_8x10_AN_EP10.indd:.142489:1122
 ## Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems, von Rueden et al https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9429985
+## Is neuro-symbolic AI meeting its promises in natural language processing? A structured review, Hamilton et al https://journals.sagepub.com/doi/full/10.3233/SW-223228

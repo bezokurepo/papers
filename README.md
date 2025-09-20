@@ -12,11 +12,11 @@
 ## Representing Low-Resource Languages and Dialects: Improved Neural Methods for Spoken Language Processing, Martijn Bartelds https://research.rug.nl/en/publications/representing-low-resource-languages-and-dialects-improved-neural-
 # 2) Formats and technologies
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
+## Universal Dependencies v2.16, Zeman et al https://lindat.mff.cuni.cz/repository/items/55b06337-e49c-4631-9328-b1a38322b1d4
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et all https://dl.acm.org/doi/pdf/10.1145/3656382
 ## Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese, de Souza et al https://sol.sbc.org.br/index.php/stil/article/view/31134/30937
 # 3) Selected papers in linguistics and syntax in 2025
-## UD 2.16, Zeman et al https://lindat.mff.cuni.cz/repository/items/55b06337-e49c-4631-9328-b1a38322b1d4
 ## Assessing the Agreement Competence of Large Language Models, Táboas García et al https://aclanthology.org/2025.depling-1.4.pdf
 ## High-Accuracy Transition-Based Constituency Parsing, Bauer & Manning https://aclanthology.org/2025.iwpt-1.4.pdf
 ## Parsing the Switch: LLM-Based UD Annotation for Complex Code-Switched and Low-Resource Languages, Kellert et al https://arxiv.org/html/2506.07274v1

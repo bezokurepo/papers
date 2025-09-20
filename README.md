@@ -1,5 +1,5 @@
 # The bezoku papers repo is regularly updated, sharing research for low resource and indigenous language technology
-# Primary research for Bezoku
+# Primary research for low resource and indigenous languages
 ## Challenges and Strategies in Cross-Cultural NLP, Hershcovich et al https://aclanthology.org/2022.acl-long.482.pdf
 ## On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, Bender et al https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
 ## The Importance of Modeling Social Factors of Language:Theory and Practice, Hovy et al https://aclanthology.org/2021.naacl-main.49.pdf
@@ -10,7 +10,7 @@
 ## Language Model Tokenizers Introduce Unfairness Between Languages, Petrov et al https://arxiv.org/pdf/2305.15425
 ## Low-resource Languages: A Review of Past Work and Future Challenges, Magueresse et al, https://arxiv.org/pdf/2006.07264
 ## Representing Low-Resource Languages and Dialects: Improved Neural Methods for Spoken Language Processing, Martijn Bartelds https://research.rug.nl/en/publications/representing-low-resource-languages-and-dialects-improved-neural-
-# Guide to underlying formats and technologies
+# Formats and technologies
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et all https://dl.acm.org/doi/pdf/10.1145/3656382

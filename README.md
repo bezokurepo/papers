@@ -26,6 +26,7 @@
 ## Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis, Higdon et al https://aclanthology.org/2025.quasy-1.11.pdf
 # 4) Use case analysis
 ## HOW PEOPLE USE CHATGPT, Chatterji et al https://www.nber.org/system/files/working_papers/w34255/w34255.pdf
+## Could AI Leapfrog the Web? Evidence from Teachers in Sierra Leone, Björkegren et al https://arxiv.org/pdf/2502.12397
 # 5) Related papers
 ## Rule-based semantic interpretation for Universal Dependencies, Findlay et al https://aclanthology.org/2023.udw-1.6.pdf
 ## AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite, Groschwitz et al https://arxiv.org/pdf/2312.03480

@@ -19,7 +19,7 @@
 ## ON OPTIMAL TRANSFORMER DEPTH FOR LOW RESOURCE LANGUAGE TRANSLATION, van Biljon et al https://arxiv.org/pdf/2004.04418
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et al https://dl.acm.org/doi/pdf/10.1145/3656382
 ## Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese, de Souza et al https://sol.sbc.org.br/index.php/stil/article/view/31134/30937
-# 3) Selected papers in linguistics and syntax in 2025
+# 3) Selected papers in linguistics and syntax - mostly from 2025
 ## Crossing Dialectal Boundaries: Building a Treebank for the Dialect of Lesbos through Knowledge Transfer from Standard Modern Greek, Bompolas et al https://aclanthology.org/2025.udw-1.5.pdf
 ## Assessing the Agreement Competence of Large Language Models, Táboas García et al https://aclanthology.org/2025.depling-1.4.pdf
 ## High-Accuracy Transition-Based Constituency Parsing, Bauer & Manning https://aclanthology.org/2025.iwpt-1.4.pdf

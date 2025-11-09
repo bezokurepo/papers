@@ -25,12 +25,12 @@
 ## Reference and Modification in Universal Dependencies, Nivre & Croft https://aclanthology.org/2025.udw-1.1.pdf
 ## Word Order Variation in Spoken and Written Corpora: A Cross-Linguistic Study of SVO and Alternative Orders, Hull & Dobrovoljc https://aclanthology.org/2025.depling-1.16.pdf
 ## Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis, Higdon et al https://aclanthology.org/2025.quasy-1.11.pdf
-# 5) Low resource languages - language specific research
+# 4) Low resource languages - language specific research
 ## DISTANT SUPERVISION AND NOISY LABEL LEARNING FOR LOW RESOURCE NAMED ENTITY RECOGNITION: A STUDY ON HAUSA AND YORUBA, Adelani et al https://arxiv.org/pdf/2003.08370
-# 4) Use case analysis
+# 5) Use case analysis
 ## HOW PEOPLE USE CHATGPT, Chatterji et al https://www.nber.org/system/files/working_papers/w34255/w34255.pdf
 ## Could AI Leapfrog the Web? Evidence from Teachers in Sierra Leone, Björkegren et al https://arxiv.org/pdf/2502.12397
-# 5) Related papers
+# 6) Related papers
 ## Rule-based semantic interpretation for Universal Dependencies, Findlay et al https://aclanthology.org/2023.udw-1.6.pdf
 ## AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite, Groschwitz et al https://arxiv.org/pdf/2312.03480
 ## Neural Semantic Parsing with Extremely Rich Symbolic Meaning Representations, Zhang et al https://research.rug.nl/en/publications/neural-semantic-parsing-with-extremely-rich-symbolic-meaning-repr

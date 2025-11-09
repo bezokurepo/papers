@@ -15,6 +15,7 @@
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
 ## Universal Dependencies v2.16, Zeman et al https://lindat.mff.cuni.cz/repository/items/55b06337-e49c-4631-9328-b1a38322b1d4
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517
+## Selected orthographic descriptions, r12a https://r12a.github.io/scripts/index.html#scriptnotes
 ## ON OPTIMAL TRANSFORMER DEPTH FOR LOW RESOURCE LANGUAGE TRANSLATION, van Biljon et al https://arxiv.org/pdf/2004.04418
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et al https://dl.acm.org/doi/pdf/10.1145/3656382
 ## Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese, de Souza et al https://sol.sbc.org.br/index.php/stil/article/view/31134/30937

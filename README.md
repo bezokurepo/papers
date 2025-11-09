@@ -1,3 +1,4 @@
+"If I have seen further, it is by standing on the shoulders of giants", Sir Isaac Newton
 # The bezoku papers repo is regularly updated, sharing research for low resource and indigenous language technology
 # 1) Primary research for low resource and indigenous languages
 ## Challenges and Strategies in Cross-Cultural NLP, Hershcovich et al https://aclanthology.org/2022.acl-long.482.pdf

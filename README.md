@@ -19,22 +19,22 @@
 ## ON OPTIMAL TRANSFORMER DEPTH FOR LOW RESOURCE LANGUAGE TRANSLATION, van Biljon et al https://arxiv.org/pdf/2004.04418
 ## A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption, Krastev et al https://dl.acm.org/doi/pdf/10.1145/3656382
 ## Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese, de Souza et al https://sol.sbc.org.br/index.php/stil/article/view/31134/30937
-# 3) Selected papers in linguistics and syntax - mostly from 2025
+# 3) Selected papers in linguistics and syntax in 2025
 ## Crossing Dialectal Boundaries: Building a Treebank for the Dialect of Lesbos through Knowledge Transfer from Standard Modern Greek, Bompolas et al https://aclanthology.org/2025.udw-1.5.pdf
 ## Assessing the Agreement Competence of Large Language Models, Táboas García et al https://aclanthology.org/2025.depling-1.4.pdf
 ## High-Accuracy Transition-Based Constituency Parsing, Bauer & Manning https://aclanthology.org/2025.iwpt-1.4.pdf
 ## Parsing the Switch: LLM-Based UD Annotation for Complex Code-Switched and Low-Resource Languages, Kellert et al https://arxiv.org/html/2506.07274v1
-## Weak Supervision and Label Noise Handling for Natural Language Processing in Low-Resource Scenarios,Michael A. Hedderich https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35026/1/MHedderich_Thesis_23-01-11.pdf
 ## MultiBLiMP 1.0:A Massively Multilingual Benchmark of Linguistic Minimal Pairs, Jumelet et al https://arxiv.org/pdf/2504.02768
 ## Reference and Modification in Universal Dependencies, Nivre & Croft https://aclanthology.org/2025.udw-1.1.pdf
 ## Word Order Variation in Spoken and Written Corpora: A Cross-Linguistic Study of SVO and Alternative Orders, Hull & Dobrovoljc https://aclanthology.org/2025.depling-1.16.pdf
 ## Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis, Higdon et al https://aclanthology.org/2025.quasy-1.11.pdf
 # 4) Low resource languages - language specific research
 ## DISTANT SUPERVISION AND NOISY LABEL LEARNING FOR LOW RESOURCE NAMED ENTITY RECOGNITION: A STUDY ON HAUSA AND YORUBA, Adelani et al https://arxiv.org/pdf/2003.08370
+## Weak Supervision and Label Noise Handling for Natural Language Processing in Low-Resource Scenarios,Michael A. Hedderich https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35026/1/MHedderich_Thesis_23-01-11.pdf
 # 5) Use case analysis
 ## HOW PEOPLE USE CHATGPT, Chatterji et al https://www.nber.org/system/files/working_papers/w34255/w34255.pdf
 ## Could AI Leapfrog the Web? Evidence from Teachers in Sierra Leone, Björkegren et al https://arxiv.org/pdf/2502.12397
-# 6) Related papers
+# 6) Adjacent papers
 ## Rule-based semantic interpretation for Universal Dependencies, Findlay et al https://aclanthology.org/2023.udw-1.6.pdf
 ## AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite, Groschwitz et al https://arxiv.org/pdf/2312.03480
 ## Neural Semantic Parsing with Extremely Rich Symbolic Meaning Representations, Zhang et al https://research.rug.nl/en/publications/neural-semantic-parsing-with-extremely-rich-symbolic-meaning-repr

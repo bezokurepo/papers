@@ -1,5 +1,5 @@
 "If I have seen further, it is by standing on the shoulders of giants", Sir Isaac Newton
-# Find below some powerful research about, and adjacent to, low resource and indigenous language topics: orthography, bias, annotation, tokenization, syntax, morphology and recurrent neural network model architecture
+### Find below some powerful research about, and adjacent to, low resource and indigenous language topics: orthography, bias, annotation, tokenization, syntax, morphology and recurrent neural network model architecture
 # 1) Primary research for low resource and indigenous languages
 ## Challenges and Strategies in Cross-Cultural NLP, Hershcovich et al https://aclanthology.org/2022.acl-long.482.pdf
 ## On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, Bender et al https://dl.acm.org/doi/pdf/10.1145/3442188.3445922

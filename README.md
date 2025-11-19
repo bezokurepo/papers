@@ -25,6 +25,7 @@
 ## High-Accuracy Transition-Based Constituency Parsing, Bauer & Manning https://aclanthology.org/2025.iwpt-1.4.pdf
 ## Parsing the Switch: LLM-Based UD Annotation for Complex Code-Switched and Low-Resource Languages, Kellert et al https://arxiv.org/html/2506.07274v1
 ## MultiBLiMP 1.0:A Massively Multilingual Benchmark of Linguistic Minimal Pairs, Jumelet et al https://arxiv.org/pdf/2504.02768
+## Goldfish: Monolingual Language Models for 350 Languages, Chang et al, https://arxiv.org/pdf/2408.10441
 ## Reference and Modification in Universal Dependencies, Nivre & Croft https://aclanthology.org/2025.udw-1.1.pdf
 ## Word Order Variation in Spoken and Written Corpora: A Cross-Linguistic Study of SVO and Alternative Orders, Hull & Dobrovoljc https://aclanthology.org/2025.depling-1.16.pdf
 ## Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis, Higdon et al https://aclanthology.org/2025.quasy-1.11.pdf

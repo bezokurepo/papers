@@ -23,6 +23,7 @@
 ## Crossing Dialectal Boundaries: Building a Treebank for the Dialect of Lesbos through Knowledge Transfer from Standard Modern Greek, Bompolas et al https://aclanthology.org/2025.udw-1.5.pdf
 ## Assessing the Agreement Competence of Large Language Models, Táboas García et al https://aclanthology.org/2025.depling-1.4.pdf
 ## High-Accuracy Transition-Based Constituency Parsing, Bauer & Manning https://aclanthology.org/2025.iwpt-1.4.pdf
+## Testing the Boundaries of LLMs: Dialectal and Language-Variety Tasks, Faisal & Anastasopoulos https://aclanthology.org/2025.vardial-1.6.pdf
 ## Parsing the Switch: LLM-Based UD Annotation for Complex Code-Switched and Low-Resource Languages, Kellert et al https://arxiv.org/html/2506.07274v1
 ## MultiBLiMP 1.0:A Massively Multilingual Benchmark of Linguistic Minimal Pairs, Jumelet et al https://arxiv.org/pdf/2504.02768
 ## Goldfish: Monolingual Language Models for 350 Languages, Chang et al, https://arxiv.org/pdf/2408.10441

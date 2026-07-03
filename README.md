@@ -12,7 +12,7 @@
 ## Language Model Tokenizers Introduce Unfairness Between Languages, Petrov et al https://arxiv.org/pdf/2305.15425
 ## Low-resource Languages: A Review of Past Work and Future Challenges, Magueresse et al, https://arxiv.org/pdf/2006.07264
 ## Representing Low-Resource Languages and Dialects: Improved Neural Methods for Spoken Language Processing, Martijn Bartelds https://research.rug.nl/en/publications/representing-low-resource-languages-and-dialects-improved-neural-
-# 2) Indigenous and Low Resource languages - context for annotation and technologies
+# 2) Indigenous and data scarce languages - context for annotation and technologies
 ## Universal Dependencies CoNLL-U format https://universaldependencies.org/format.html
 ## Universal Dependencies v2.16, Zeman et al https://lindat.mff.cuni.cz/repository/items/55b06337-e49c-4631-9328-b1a38322b1d4
 ## Extended Long Short Term Memory, Hochreiter et al https://arxiv.org/pdf/2405.04517
